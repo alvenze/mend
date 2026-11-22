@@ -1,8 +1,8 @@
 # mend: one patch tool for every AI edit format
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![practice score](https://img.shields.io/badge/practice-1000-brightgreen)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![make.fun bounty](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/alvenze/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/alvenze/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 
 `mend` applies one patch, written the way AI models write edits, to a
 tree of text files. It reads four formats: unified diffs (with wrong
